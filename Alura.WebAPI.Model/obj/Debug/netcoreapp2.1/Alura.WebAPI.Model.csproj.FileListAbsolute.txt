@@ -1,0 +1,9 @@
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.AssemblyReference.cache
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb

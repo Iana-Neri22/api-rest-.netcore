@@ -1,0 +1,12 @@
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.deps.json
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.AssemblyReference.cache
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\Pichau\Downloads\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
